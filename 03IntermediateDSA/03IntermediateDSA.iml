@@ -7,7 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/03IntroductionToArrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04PrefixSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05CarryForwardAndSubarrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/062DMatrices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07SlidingWindow" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
